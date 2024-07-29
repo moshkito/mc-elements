@@ -1,2 +1,2 @@
-# mc-elements
+# MINECRAFT ELEMENTS
 Inoffizielle Minecraft Elements Website
